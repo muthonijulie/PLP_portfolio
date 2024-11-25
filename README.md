@@ -32,4 +32,4 @@ To view the code, open it in a code editor such as vs code
 This portfolio has been deployed using github pages.It can be on the link below:
 https://muthonijulie.github.io/PLP_portfolio.Group19/
 
-I hope you enjoying viewing my portfolio website
+I hope you enjoy viewing my portfolio website
